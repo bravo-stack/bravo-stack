@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **A lot of React and Next.js related projects.**
 
-- 👯 I’m looking to collaborate on **on a lot of React and Next.js projects as well.**
+- 👯 I’m looking to collaborate on **React and Next.js projects as well.**
 
 - 💬 Ask me about **React, Redux, Next.js and everything in between**
 
