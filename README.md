@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bravostack</h1>
-<h3 align="center">I possess exceptional expertise in frontend development, backed by a comprehensive understanding of cutting-edge web technologies and industry best practices cultivated over several years of experience. My primary focus revolves around creating responsive, dynamic, and visually captivating user interfaces, employing ReactJS, NextJS, CSS, HTML, and Typescript as my core tools.</h3>
+<h3 align="center">I possess exceptional expertise in frontend development, backed by a comprehensive understanding of cutting-edge web technologies and industry best practices cultivated over several years of experience. My primary focus revolves around creating responsive, dynamic, and visually captivating user interfaces, employing ReactJS, Typescript, NextJS, TailwindCSS, and Redux Toolkit as my core tools.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bravo-stack&label=Profile%20views&color=0e75b6&style=flat" alt="bravo-stack" /> </p>
 
