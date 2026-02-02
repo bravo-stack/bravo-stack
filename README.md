@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Bravostack</h1>
-<h3 align="center">As a highly skilled Frontend Engineer, I specialize in developing and integrating dynamic, responsive, and visually compelling user interfaces using core technologies such as ReactJS, TypeScript, Next.js, and TailwindCSS. I excel in translating design concepts and wireframes into clean, maintainable, and high-performance code, ensuring pixel-perfect representation across all devices.
-With strong proficiency in debugging and resolving technical issues, I swiftly identify and address bugs, ensuring optimal performance and functionality. I have extensive experience in integrating frontend components with backend services through RESTful and GraphQL APIs, enhancing overall application efficiency. Additionally, I maintain high code quality using Git for version control and collaborative workflows. Passionate about delivering seamless user experiences, I seek opportunities to apply my expertise in roles where innovation and attention to detail are key.</h3>
+<h3 align="center">I’m a Senior Frontend Engineer with strong experience building scalable, high-performance web applications using React, Next.js, TypeScript, and modern UI frameworks. I specialize in translating complex product and business requirements into clean, maintainable, and user-focused interfaces, with a strong emphasis on performance, accessibility, and code quality.
+
+Across roles in fintech, e-commerce, SaaS, and AI-driven platforms, I’ve worked closely with designers, backend engineers, and product teams to deliver production-ready solutions. My experience includes integrating frontend systems with REST and GraphQL APIs, managing global state efficiently, and contributing to enterprise-grade applications using tools like Supabase/PostgreSQL, AWS Cognito, and Tailwind CSS.
+
+I’m particularly interested in senior frontend opportunities where thoughtful UI architecture, collaboration, and real product impact are valued. I enjoy owning features end-to-end, improving existing systems, and helping teams ship reliable, scalable user experiences.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bravo-stack&label=Profile%20views&color=0e75b6&style=flat" alt="bravo-stack" /> </p>
 
